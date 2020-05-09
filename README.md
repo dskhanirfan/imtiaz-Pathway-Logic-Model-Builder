@@ -14,3 +14,5 @@ install pear.phar and graphviz
 
 The project is available on the following link
 https://drive.google.com/file/d/1vYHvPwxjdlLaBl003K19CXq_NFz5Mz_Q/view?usp=sharing
+
+Develpoed by Muhammad Irfan Khan (RCMS, NUST), Usman Sarwar, Dr. Jamil Ahmed (RCMS, NUST), Azmat Ali khan(RCMS, NUST)
