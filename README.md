@@ -40,7 +40,7 @@ A computer application that may automate the whole process of modeling in pathwa
 logic can avoid all these problems and make the process very fast.
 ## Pathway Logic Model Builder
 Pathway Logic Model Builder is a computer application that facilitate the process of modeling in pathway logic.
-5.2.1 Source of Chemical Interactions
+### Source of Chemical Interactions
 pathways are available on many sites. These pathways are usually in graphical form and
 provide a visual representation of interactions among chemical entities. Every website manage the information about chemical interaction differently. So the retrieval of information
 about chemical interactions from these sites is a difficult task.
