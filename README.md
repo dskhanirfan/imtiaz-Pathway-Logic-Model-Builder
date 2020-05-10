@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1vYHvPwxjdlLaBl003K19CXq_NFz5Mz_Q/view?usp=shari
 
 
 ## Introduction
-It is quite evident from the previous chapters that Pathway Logic is very useful for qualitative analysis and cross talk identification within large pathways. The modeling process
+Pathway Logic is essential for qualitative analysis and cross talk identification within large pathways. The modeling process
 for such analysis requires many computational skills like software installation/ configuring
 in Linux, programming etc.
 The programming in MAUDE is a time consuming task even for computer professional
