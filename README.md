@@ -17,7 +17,7 @@ and no dedicated editor for code writing. Its code is usually written in notepad
 not indicate any errors while writing the code. This kind of errors prevent the models to
 execute. The process is also very prone to logical errors and detection of presence of such
 errors is very difficult.
-Apart from Knowledge base, transition knowledge base is also required. The both
+Apart from Knowledge base, transition knowledge base is also required. Both
 kowledge bases must conform to each other to query the model and to display the results
 in PLA. Transition knowledge base is the transformation of rules of knowledge base to
 transitions of petri net. This transformation if subjected to error at any stage may corrupt
@@ -31,7 +31,7 @@ entities and their interactions in the knowledge base. New entities may have int
 with already present entites so already present interactions needs modification. This is very
 challenging and delicate process. This problem becomes worst when one wants to combine
 the rule knowledge bases of two or more pathways for combined analysis.
-To avoid all these problems extensive literature review and large documentation is required. Even then process is more likely to error prone. Extensive documentation is a
+To avoid all these problems extensive literature review and large documentation is required. Even then process is more likely  error prone. Extensive documentation is a
 problem in itself. Moreover as the knowledge base grows, its documents also grow large.
 New curator must have a good knowledge of existing knowledge base through its documentation.
 The biologist usually lacks computational skills so they find the modeling process in
